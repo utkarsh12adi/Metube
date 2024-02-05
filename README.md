@@ -1,18 +1,35 @@
-# Getting Started with Create React App
+# MeTube - Your Video Streaming Platform
+MeTube is an video-streaming platform developed with functionality similar to YouTube. It allows users to stream, search, and share videos seamlessly. The project integrates the RapidAPI service for enhanced search capabilities, ensuring users can discover content easily. App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access deployed app : <strong>https://65c08487229ee6f881c56b19--ubiquitous-pasca-581990.netlify.app/</strong>
 
-## Available Scripts
+## Features:
+Video Playback: Seamlessly watch videos with an intuitive player.
+Search Functionality: Leverage the power of RapidAPI to enable robust search functionality, making content discovery a breeze.
 
-In the project directory, you can run:
 
-### `npm start`
+### Technologies Used:
+Frontend: HTML, CSS, JavaScript, React JS
+Backend: Node.js, Express
+API Integration: RapidAPI
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/5f14dba4-9db2-4541-9b1f-b366a2601b80)
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/87905df9-522e-431f-8942-6628ce703fd9)
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/5acff9be-b2ce-4830-9a6e-4e0c7cdb9766)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#Screenshots:
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/778e6b5b-8422-4bac-bfb4-711510f9c595)
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/35521d33-226b-43bd-839c-319e05e31baa)
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/5521777e-eb27-4c80-959e-7f1216858923)
+![image](https://github.com/utkarsh12adi/Metube/assets/69595881/bd111380-f7bc-442a-b997-6cf649cbd5c1)
+
+
+
+
+
+
+
+
 
 ### `npm test`
 
@@ -29,42 +46,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
